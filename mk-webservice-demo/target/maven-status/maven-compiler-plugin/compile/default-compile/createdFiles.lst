@@ -1,0 +1,7 @@
+com\suns\controller\TestController.class
+com\suns\service\DemoService.class
+com\suns\service\impl\Demo2ServiceImpl.class
+com\suns\service\impl\DemoServiceImpl.class
+com\suns\WebServiceApplication.class
+com\suns\config\CxfConfig.class
+com\suns\service\Demo2Service.class
